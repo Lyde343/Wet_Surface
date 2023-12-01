@@ -197,13 +197,13 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RainSpeed: 0.8
-    - _Rain_Amount: 0.879
+    - _Rain_Amount: 0.796
     - _Rain_Distortion_Power: 1.75
     - _Rain_Distortion_Scale: 1
-    - _Rain_Normal: 0.43
+    - _Rain_Normal: 1.15
     - _Rain_Normal_Power: 0.1
     - _Rain_Smoothness: 10.7
-    - _Rain_Wash_Amount: 0.81
+    - _Rain_Wash_Amount: 0.29
     - _Rain_Wash_Scale: 32.87
     - _Raindrop_Smoothness_Amount: 39.54
     - _ReceiveShadows: 1
@@ -232,6 +232,6 @@ Material:
     - _Droplets_Scale: {r: 1, g: 1, b: 0, a: 0}
     - _Droplets_Tiling: {r: 1, g: 1, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Rain_Texture_Tiling: {r: 4, g: 3, b: 0, a: 0}
+    - _Rain_Texture_Tiling: {r: 3, g: 2, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
