@@ -62,7 +62,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Base_Smoothness_Map:
-        m_Texture: {fileID: 2800000, guid: 1068ce6b6618c6448b2f559a949393c3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2318101a36813694793e48c839d56452, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -172,7 +172,7 @@ Material:
     - _BaseMaterialNormal_Power: 1.1
     - _BaseMaterial_Smoothness_Amount: 0.27
     - _Base_Normal: 0
-    - _Base_Smoothness: 0
+    - _Base_Smoothness: 1
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _Blur: 0
@@ -206,7 +206,7 @@ Material:
     - _Rain_Distortion_Scale: 1
     - _Rain_Normal: 0.5
     - _Rain_Normal_Power: 0.1
-    - _Rain_Smoothness: 46.6
+    - _Rain_Smoothness: 47.4
     - _Rain_Wash_Amount: 0.99
     - _Rain_Wash_Scale: 1
     - _Raindrop_Smoothness_Amount: 39.54
@@ -236,6 +236,7 @@ Material:
     - _Droplets_Scale: {r: 1, g: 1, b: 0, a: 0}
     - _Droplets_Tiling: {r: 1, g: 1, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RainWashTiling: {r: 3, g: 1, b: 0, a: 0}
     - _Rain_Texture_Tiling: {r: 4, g: 2, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []

@@ -86,14 +86,15 @@ Material:
     - _RainSpeed: 0.63
     - _Rain_Amount: 0.758
     - _Rain_Normal: 3.15
-    - _Rain_Smoothness: 13.7
+    - _Rain_Smoothness: 27
     - _Rain_Wash_Amount: 1
     - _Rain_Wash_Scale: 1.9
     - _Smoothness_Killswitch: 1
     - _Wet_Albedo_Darken: 0.01
     m_Colors:
     - _Base_Tiling: {r: 3, g: 3, b: 0, a: 0}
-    - _Base_Tint: {r: 0.7830189, g: 0.65821636, b: 0.4764596, a: 0}
+    - _Base_Tint: {r: 0.3537736, g: 0.439897, b: 0.4716981, a: 0}
     - _Droplets_Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _RainWashTiling: {r: 2, g: 1, b: 0, a: 0}
     - _Rain_Texture_Tiling: {r: 3, g: 2, b: 0, a: 0}
   m_BuildTextureStacks: []
